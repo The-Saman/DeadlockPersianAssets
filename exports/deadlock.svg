@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1" width="250mm" height="250mm" version="1.1" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs1">
+    <clipPath id="clipPath1">
+      <circle id="circle2" cx="125" cy="125" r="120" fill="#efdebf" style="paint-order:stroke markers fill"/>
+    </clipPath>
+    <clipPath id="clipPath2">
+      <circle id="circle3" cx="125" cy="125" r="120" fill="#efdebf" style="paint-order:stroke markers fill"/>
+    </clipPath>
+  </defs>
+  <g id="layer1">
+    <circle id="path1" cx="125" cy="125" r="120" fill="#efdebf" style="paint-order:stroke markers fill"/>
+    <g id="g20" fill="none" stroke="#231f20" stroke-miterlimit="3">
+      <path id="path19" d="m125 5v240" clip-path="url(#clipPath2)" stroke-width="5" style="paint-order:stroke markers fill"/>
+      <path id="path20" d="m245 125h-240" clip-path="url(#clipPath1)" stroke-width="5" style="paint-order:stroke markers fill"/>
+      <g id="g3">
+        <path id="path17" d="m52.522 52.522 144.96 144.96" stroke-width="5" style="paint-order:stroke markers fill"/>
+        <g id="g10" transform="matrix(1 0 0 -1 .00018145 250)" stroke-width="5">
+          <path id="path9" d="m202.65 58.08c-9.559-1.17-13.396 2.6678-19.509 8.7816" style="paint-order:stroke markers fill"/>
+          <path id="path10" d="m191.92 47.354c1.17 9.559-2.6678 13.396-8.7816 19.509" style="paint-order:stroke markers fill"/>
+        </g>
+        <g id="g8" transform="matrix(-1 0 0 1 250 0)" stroke-width="5">
+          <path id="path7" d="m202.65 58.08c-9.559-1.17-13.396 2.6678-19.509 8.7816" style="paint-order:stroke markers fill"/>
+          <path id="path8" d="m191.92 47.354c1.17 9.559-2.6678 13.396-8.7816 19.509" style="paint-order:stroke markers fill"/>
+        </g>
+      </g>
+      <g id="g4">
+        <path id="path18" d="m197.48 52.522-144.96 144.96" stroke-width="5" style="paint-order:stroke markers fill"/>
+        <g id="g13" transform="matrix(0 1 1 0 4.2558e-6 .0001772)" stroke-width="5">
+          <path id="path13" d="m191.92 47.354c1.17 9.559-2.6678 13.396-8.7816 19.509" style="paint-order:stroke markers fill"/>
+          <path id="path11" d="m202.65 58.08c-9.559-1.17-13.396 2.6678-19.509 8.7816" style="paint-order:stroke markers fill"/>
+        </g>
+        <g id="g5" stroke-width="5" style="mix-blend-mode:normal">
+          <path id="path4" d="m202.65 58.08c-9.559-1.17-13.396 2.6678-19.509 8.7816" style="paint-order:stroke markers fill"/>
+          <path id="path5" d="m191.92 47.354c1.17 9.559-2.6678 13.396-8.7816 19.509" style="paint-order:stroke markers fill"/>
+        </g>
+      </g>
+      <path id="path12" d="M 227.5,125 A 102.5,102.5 0 0 1 125,227.5 102.5,102.5 0 0 1 22.5,125 102.5,102.5 0 0 1 125,22.5 102.5,102.5 0 0 1 227.5,125 Z" stroke-width="5" style="paint-order:stroke markers fill"/>
+    </g>
+    <g id="g6">
+      <g id="g2" fill="#231f20">
+        <path id="path29" d="m125 164.55c-5.7537 0-11.458-0.6821-17-2.2296-3.8865-1.0853-7.7029-2.5237-11.284-4.3834-17.415-9.0436-49.001-32.936-49.001-32.936h154.57s-31.586 23.893-49.001 32.936c-3.5811 1.8597-7.3975 3.298-11.284 4.3834-5.5416 1.5475-11.246 2.2296-17 2.2296z" style="paint-order:stroke markers fill"/>
+        <path id="path28" d="m125 85.451c-5.7537 0-11.458 0.6821-17 2.2296-3.8865 1.0853-7.7029 2.5237-11.284 4.3834-17.415 9.0436-49.001 32.936-49.001 32.936h154.57s-31.586-23.893-49.001-32.936c-3.5811-1.8597-7.3975-3.2981-11.284-4.3834-5.5416-1.5475-11.246-2.2296-17-2.2296z" style="paint-order:stroke markers fill"/>
+      </g>
+      <g id="g1">
+        <circle id="path21" cx="125" cy="125" r="28.284" fill="#efdebf" style="paint-order:stroke markers fill"/>
+        <circle id="path25" cx="125" cy="125" r="17" fill="#231f20" style="paint-order:stroke markers fill"/>
+      </g>
+    </g>
+  </g>
+</svg>
